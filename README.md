@@ -1,2 +1,2 @@
-# Doni-website Updated
-my first project
+# Welcome to Doni's wesite
+This is my first project
